@@ -23,6 +23,7 @@ My projects vary from **personal projects** that I have developed in my free tim
 ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=informational) ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=informational) ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=informational) ![](https://img.shields.io/badge/VCS-Git-informational?style=flat-square&logo=Git&logoColor=white&color=informational)
 
 I love learning new technologies, so if you have an idea you can contact me. 
+
 You can find me on [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Facebook][3.3]][3]
 
 
