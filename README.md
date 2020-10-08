@@ -17,7 +17,8 @@ I am also a member of **ACM AUTh Student Chapter**, you can find more informatio
 My projects vary from **personal projects** that I have developed in my free time to **university projects** that I have devoloped during my studies.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Widndows-informational?style=flat-square&logo=Windows&logoColor=white&color=informational) ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat-square&logo=#000000&logoColor=white&color=informational) 
+![](https://img.shields.io/badge/OS-Widndows-informational?style=flat-square&logo=Windows&logoColor=white&color=informational)
+![](https://img.shields.io/badge/IDE-IntelliJIDEA-informational?style=flat-square&logo=Windows&logoColor=white&color=informational) 
 
 
 
