@@ -1,9 +1,14 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Tasos Papadopoulos and I currently study Computer Science
+My name is **Tasos Papadopoulos** and I currently study in the **Computer Science Department** Of **Aristotle Univeristy Of Thessaloniki** in Greece.
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+I am interested in **Machine Learning**,**Data Science** and **Software Design**.
 
+I am also a member of **ACM AUTh Student Chapter**, you can find more information about the organization [here](http://acm.web.auth.gr/)
+
+
+<!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+-->
 
 <!--
 **TasosOperatingInBinary/TasosOperatingInBinary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
