@@ -24,4 +24,4 @@ My projects vary from **personal projects** that I have developed in my free tim
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=informational)  
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat-square&logo=Git&logoColor=white&color=informational)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
