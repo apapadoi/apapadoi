@@ -17,6 +17,14 @@ I am also a member of **ACM AUTh Student Chapter**, you can find more informatio
 My projects vary from **personal projects** that I have developed in my free time to **university projects** that I have devoloped during my studies.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/<Editor>-<IntellijIDEA>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
