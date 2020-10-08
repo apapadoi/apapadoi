@@ -17,4 +17,11 @@ I am also a member of **ACM AUTh Student Chapter**, you can find more informatio
 My projects vary from **personal projects** that I have developed in my free time to **university projects** that I have devoloped during my studies.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Widndows-informational?style=flat-square&logo=Windows&logoColor=white&color=informational) ![](https://img.shields.io/badge/IDE-Intellij_IDEA-informational?style=flat-square&logo=IntelliJ_IDEA&logoColor=white&color=informational) ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=Visual_Studio_Code&logoColor=white&color=blue) ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=C++&logoColor=white&color=informational) ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=informational) ![](https://img.shields.io/badge/VSC-Git-informational?style=flat-square&logo=Git&logoColor=white&color=informational)
+![](https://img.shields.io/badge/OS-Widndows-informational?style=flat-square&logo=Windows&logoColor=white&color=informational) ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat-square&logo=#000000&logoColor=white&color=informational) 
+
+
+
+
+
+
+![](https://img.shields.io/badge/IDE-Intellij_IDEA-informational?style=flat-square&logo=IntelliJ_IDEA&logoColor=white&color=informational) ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=Visual_Studio_Code&logoColor=white&color=blue) ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=C++&logoColor=white&color=informational) ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=informational) ![](https://img.shields.io/badge/VSC-Git-informational?style=flat-square&logo=Git&logoColor=white&color=informational)
