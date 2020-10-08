@@ -31,7 +31,7 @@ You can find me on [![Facebook][3.3]][3] [![LinkedIn][2.2]][2]  [![Twitter][1.2]
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [3.3]: http://i.imgur.com/fep1WsG.png
-[4.4]: https://www.flaticon.com/svg/static/icons/svg/2111/2111363.svg
+[4.4]: https://github.com/TasosOperatingInBinary/TasosOperatingInBinary/blob/main/discord.png?raw=true
 
 <!-- Social Network Links -->
 [1]: https://twitter.com/TasosPa94886287
