@@ -4,7 +4,11 @@ My name is **Tasos Papadopoulos** and I currently study in the **Computer Scienc
 
 I am interested in **Machine Learning**,**Data Science** and **Software Design**.
 
-I am also a member of **ACM AUTh Student Chapter**, you can find more information about the organization [here](http://acm.web.auth.gr/)
+I like working on a team and being member of the open-source community.
+
+In my free time I play video games. 🎮
+
+I am also a member of **ACM AUTh Student Chapter**, you can find more information about the organization [here](http://acm.web.auth.gr/).
 
 
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
