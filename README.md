@@ -12,6 +12,8 @@ I am also a member of **ACM AUTh Student Chapter**, you can find more informatio
 
 ![stats](https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&count_private=true&show_icons=true&include_all_commits=true)
 
+## About my projects
+
 
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 -->
