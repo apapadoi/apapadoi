@@ -24,14 +24,14 @@ My projects vary from **personal projects** that I have developed in my free tim
 
 I love learning new technologies, so if you have an idea you can contact me. 
 
-You can find me on [![Facebook][3.3]][3] [![LinkedIn][2.2]][2]  [![Twitter][1.2]][1] [![Discord][4.4][4]]
+You can find me on [![Facebook][3.3]][3] [![LinkedIn][2.2]][2]  [![Twitter][1.2]][1] [![Discord][4.4]][4]
 
 
 <!-- Images -->
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [3.3]: http://i.imgur.com/fep1WsG.png
-[4.4]: https://cdn.iconscout.com/icon/free/png-128/discord-1-555369.png
+[4.4]: https://www.flaticon.com/svg/static/icons/svg/2111/2111363.svg
 
 <!-- Social Network Links -->
 [1]: https://twitter.com/TasosPa94886287
