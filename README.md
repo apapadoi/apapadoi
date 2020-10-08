@@ -18,3 +18,5 @@ My projects vary from **personal projects** that I have developed in my free tim
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=#0078D6&logoColor=informational&color=informational) ![](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat-square&logo=00000&logoColor=informational&color=informational) ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=#007ACC&logoColor=informational&color=informational) ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=#00599C&logoColor=informational&color=informational) ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=#3776AB&logoColor=informational&color=informational) ![](https://img.shields.io/badge/VCS-Git-informational?style=flat-square&logo=#F05032&logoColor=informational&color=informational)
+
+![](https://img.shields.io/badge/OS-Widndows-informational?style=flat-square&logo=Windows&logoColor=white&color=blue)
