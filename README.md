@@ -23,3 +23,12 @@ My projects vary from **personal projects** that I have developed in my free tim
 ![](https://img.shields.io/badge/IDE-Intellij_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=informational) ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=informational) ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=informational) ![](https://img.shields.io/badge/VCS-Git-informational?style=flat-square&logo=Git&logoColor=white&color=informational)
+
+
+                            You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+[1]: https://twitter.com/TasosPa94886287
+[2]: https://www.linkedin.com/in/tasos-papadopoulos/
