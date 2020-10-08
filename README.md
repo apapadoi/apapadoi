@@ -24,7 +24,7 @@ My projects vary from **personal projects** that I have developed in my free tim
 
 I love learning new technologies, so if you have an idea you can contact me. 
 
-You can find me on [![Facebook][3.3]][3] [![LinkedIn][2.2]][2] [![Twitter][1.2]][1]
+You can find me on [![Facebook][3.3]][3] [![LinkedIn][2.2]][2]  [![Twitter][1.2]][1]
 
 
 <!-- Images -->
