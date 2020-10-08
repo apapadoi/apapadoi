@@ -10,9 +10,7 @@ In my free time I play video games. 🎮
 
 I am also a member of **ACM AUTh Student Chapter**, you can find more information about the organization [here](http://acm.web.auth.gr/).
 
-![stats](https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&count_private=true&show_icons=true&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![stats](https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&count_private=true&show_icons=true&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About my projects
 
@@ -24,10 +22,16 @@ My projects vary from **personal projects** that I have developed in my free tim
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=informational) ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=informational) ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=informational) ![](https://img.shields.io/badge/VCS-Git-informational?style=flat-square&logo=Git&logoColor=white&color=informational)
 
+I love learning new technologies, so if you have an idea you can contact me. 
+You can find me on [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Facebook][3.3]][3]
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][3]
 
+<!-- Images -->
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[3.3]: https://i.pinimg.com/originals/27/d5/42/27d542e2e2626de4c08ee3d84aaabb7b.png
+
+<!-- Social Network Links -->
 [1]: https://twitter.com/TasosPa94886287
-[3]: https://www.linkedin.com/in/tasos-papadopoulos/
+[2]: https://www.linkedin.com/in/tasos-papadopoulos/
+[3]: https://www.facebook.com/tasos.papadop7/
