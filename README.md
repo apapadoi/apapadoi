@@ -18,7 +18,7 @@ My projects vary from **personal projects** that I have developed in my free tim
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Widndows-informational?style=flat-square&logo=Windows&logoColor=white&color=informational)
-![](https://img.shields.io/badge/IDE-IntelliJIDEA-informational?style=flat-square&logo=IntelliJ_IDEA&logoColor=white&color=informational) 
+![](https://img.shields.io/badge/IDE-IntelliJIDEA-informational?style=flat-square&logo=IntelliJ IDEA&logoColor=white&color=informational) 
 
 
 
