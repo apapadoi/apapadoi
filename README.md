@@ -1,6 +1,6 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is **Tasos Papadopoulos** and I currently study in the **Computer Science Department** Of **Aristotle Univeristy Of Thessaloniki** in Greece.
+My name is **Tasos Papadopoulos** and I currently study in the **Computer Science Department** Of **Aristotle University Of Thessaloniki** in Greece.
 
 I am interested in **Machine Learning**,**Data Science** and **Software Design**.
 
