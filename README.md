@@ -10,6 +10,8 @@ In my free time I play video games. 🎮
 
 I am also a member of **ACM AUTh Student Chapter**, you can find more information about the organization [here](http://acm.web.auth.gr/).
 
+## 📈 GitHub Stats
+
 ![stats](https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&count_private=true&show_icons=true&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About my projects
@@ -26,12 +28,12 @@ I love learning new technologies, so if you have an idea you can contact me.
 
 You can find me on [![Facebook][3.3]][3] [![LinkedIn][2.2]][2]  [![Twitter][1.2]][1].
 
-<!-- Images -->
+<!-- Social Media Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [3.3]: http://i.imgur.com/fep1WsG.png
 
-<!-- Social Network Links -->
+<!-- Social Media Links -->
 [1]: https://twitter.com/TasosPa94886287
 [2]: https://www.linkedin.com/in/tasos-papadopoulos/
 [3]: https://www.facebook.com/tasos.papadop7/
