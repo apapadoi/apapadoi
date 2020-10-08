@@ -24,15 +24,17 @@ My projects vary from **personal projects** that I have developed in my free tim
 
 I love learning new technologies, so if you have an idea you can contact me. 
 
-You can find me on [![Facebook][3.3]][3] [![LinkedIn][2.2]][2]  [![Twitter][1.2]][1]
+You can find me on [![Facebook][3.3]][3] [![LinkedIn][2.2]][2]  [![Twitter][1.2]][1] [![Discord][4.4][4]]
 
 
 <!-- Images -->
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [3.3]: http://i.imgur.com/fep1WsG.png
+[4.4]: https://cdn.iconscout.com/icon/free/png-128/discord-1-555369.png
 
 <!-- Social Network Links -->
 [1]: https://twitter.com/TasosPa94886287
 [2]: https://www.linkedin.com/in/tasos-papadopoulos/
 [3]: https://www.facebook.com/tasos.papadop7/
+[4]: https://www.google.com/
