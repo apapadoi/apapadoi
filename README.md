@@ -21,8 +21,8 @@ My projects vary from **personal projects** that I have developed in my free tim
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Widndows-informational?style=flat-square&logo=Windows&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/IDE-Intellij_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=informational) 
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=informational)  
+![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat-square&logo=Git&logoColor=white&color=informational)
