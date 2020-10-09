@@ -16,7 +16,7 @@ I am also a member of **ACM AUTh Student Chapter**, you can find more informatio
 
 ## 💻 About my projects
 
-My projects vary from **personal projects** that I have developed in my free time to **university projects** that I have devoloped during my studies.
+My projects vary from **personal projects** that I have developed in my free time to **university projects** that I have devoloped during my studies or even **coding competitions** I have joined.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=informational)
