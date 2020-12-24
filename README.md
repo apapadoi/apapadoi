@@ -12,8 +12,8 @@ I am also a member of **ACM AUTh Student Chapter**, you can find more informatio
 
 ## 📈 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&count_private=true&show_icons=true&include_all_commits=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&hide_title=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TasosOperatingInBinary&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![stats](https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TasosPapadopoulos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 About my projects
 
