@@ -2,7 +2,7 @@
 
 My name is **Tasos Papadopoulos** and I currently study in the **Computer Science Department** Of **Aristotle University Of Thessaloniki** in Greece.
 
-I am interested in **Machine Learning**,**Data Science** and **Software Design**.
+I am interested in **Machine Learning**, **Data Science** and **Software Design**.
 
 I like working on a team and being member of the open-source community.
 
@@ -25,7 +25,7 @@ I am also a member of **ACM AUTh Student Chapter**, you can find more informatio
 
 My projects vary from **personal projects** that I have developed in my free time to **university projects** that I have devoloped during my studies or even **coding competitions** I have joined.
 
-## 🔧 Technologies & Tools
+<!-- ## 🔧 Technologies & Tools
 
 ### I am familiar with the following technologies & tools
 
@@ -38,7 +38,7 @@ My projects vary from **personal projects** that I have developed in my free tim
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=informational) ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=informational) ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=informational) ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=informational) 
 
-![](https://img.shields.io/badge/VCS-Git-informational?style=flat-square&logo=Git&logoColor=white&color=informational)
+![](https://img.shields.io/badge/VCS-Git-informational?style=flat-square&logo=Git&logoColor=white&color=informational) -->
 
 I love learning new technologies, so if you have an idea you can contact me. 
 
