@@ -10,7 +10,14 @@ I am also a member of **ACM AUTh Student Chapter**, you can find more informatio
 
 ## 📈 GitHub Stats 🖥️ 
 <!-- :-------------------------:|:-------------------------: -->
-![stats](https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&theme=dracula&count_private=true&show_icons=true&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&layout=compact&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<div> 
+  <img src='https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&theme=dracula&count_private=true&show_icons=true&include_all_commits=true'>
+  &nbsp
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&layout=compact&langs_count=10&theme=dracula'>
+</div>
+<!--   ![stats](https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)  -->
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&layout=compact&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) </div> -->
 
 <!-- ## 📅 This week I was involved in projects made with
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TasosPapadopoulos&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
