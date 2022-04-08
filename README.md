@@ -13,7 +13,6 @@ I am also a member of **ACM AUTh Student Chapter**, you can find more informatio
 
 <div> 
   <img src='https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&theme=dracula&count_private=true&show_icons=true&include_all_commits=true'>
-  &nbsp
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&layout=compact&langs_count=10&theme=dracula'>
 </div>
 <!--   ![stats](https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)  -->
