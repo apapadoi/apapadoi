@@ -8,20 +8,30 @@ I like working on a team and being member of the open-source community.
 
 I am also a member of **ACM AUTh Student Chapter**, you can find more information about the organization [here](https://auth.acm.org/).
 
-## 📈 GitHub Stats 🖥️ 
+## 📈 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
+
 <!-- :-------------------------:|:-------------------------: -->
 
-<div> 
+<!-- <div> 
   <img src='https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&theme=dracula&count_private=true&show_icons=true&include_all_commits=true'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&layout=compact&langs_count=10&theme=dracula'>
-</div>
-<!--   ![stats](https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)  -->
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&layout=compact&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) </div> -->
+</div> -->
+
+<!-- ## 📈 My favorite languages 🖥️  -->
+<!-- <div> 
+  <img src='https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&theme=dracula&count_private=true&show_icons=true&include_all_commits=true'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&layout=compact&langs_count=10&theme=dracula'>
+</div> -->
+
+
+## 🖥️ My favorite languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&layout=compact&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## 📅 This week I was involved in projects made with
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TasosPapadopoulos&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- ## 💻 About my projects
+## 💻 About my projects
 
 My projects vary from **personal projects** that I have developed in my free time to **university projects** that I have devoloped during my studies or even **coding competitions** I have joined. -->
 
