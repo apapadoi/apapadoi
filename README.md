@@ -1,29 +1,23 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is **Tasos Papadopoulos** and I currently study in the **Computer Science Department** Of **Aristotle University Of Thessaloniki** in Greece.
+My name is **Tasos Papadopoulos** and I currently study **Computer Science** at **Aristotle University Of Thessaloniki** in Greece. I also work as a **Full Stack Software Engineer Intern** at **Aristotle University IT Center**.
 
-I am interested in **Machine Learning**, **Data Science** and **Software Design**.
+I am interested in **Machine Learning**, **Data Science** and **Software Architecture**.
 
 I like working on a team and being member of the open-source community.
 
-In my free time I play video games. 🎮  
+I am also a member of **ACM AUTh Student Chapter**, you can find more information about the organization [here](https://auth.acm.org/).
 
-I am also a member of **ACM AUTh Student Chapter**, you can find more information about the organization [here](http://acm.web.auth.gr/).
+## 📈 GitHub Stats 🖥️ 
+<!-- :-------------------------:|:-------------------------: -->
+![stats](https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&theme=dracula&count_private=true&show_icons=true&include_all_commits=true) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&layout=compact&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📈 GitHub Stats
+<!-- ## 📅 This week I was involved in projects made with
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TasosPapadopoulos&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![stats](https://github-readme-stats.vercel.app/api?username=TasosOperatingInBinary&theme=dracula&count_private=true&show_icons=true&include_all_commits=true) 
+<!-- ## 💻 About my projects
 
-## 🖥️ My favorite languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosOperatingInBinary&layout=compact&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📅 This week I was involved in projects made with
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TasosPapadopoulos&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-## 💻 About my projects
-
-My projects vary from **personal projects** that I have developed in my free time to **university projects** that I have devoloped during my studies or even **coding competitions** I have joined.
+My projects vary from **personal projects** that I have developed in my free time to **university projects** that I have devoloped during my studies or even **coding competitions** I have joined. -->
 
 <!-- ## 🔧 Technologies & Tools
 
@@ -40,7 +34,7 @@ My projects vary from **personal projects** that I have developed in my free tim
 
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat-square&logo=Git&logoColor=white&color=informational) -->
 
-I love learning new technologies, so if you have an idea you can contact me. 
+I love learning new technologies, so if you have an idea you can contact me!
 
 You can find me on [![Facebook][3.3]][3] [![LinkedIn][2.2]][2]  [![Twitter][1.2]][1]
 
