@@ -60,6 +60,6 @@ You can find me on [![Facebook][3.3]][3] [![LinkedIn][2.2]][2]  [![Twitter][1.2]
 [3.3]: http://i.imgur.com/fep1WsG.png
 
 <!-- Social Media Links -->
-[1]: https://twitter.com/TasosPa94886287
+[1]: https://twitter.com/apapadoi
 [2]: https://www.linkedin.com/in/tasos-papadopoulos/
 [3]: https://www.facebook.com/tasos.papadop7/
