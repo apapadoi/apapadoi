@@ -31,9 +31,9 @@ I am also a member of **ACM AUTh Student Chapter**, you can find more informatio
 <!-- ## 📅 This week I was involved in projects made with
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TasosPapadopoulos&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## 💻 About my projects
+<!-- ## 💻 About my projects -->
 
-My projects vary from **personal projects** that I have developed in my free time to **university projects** that I have devoloped during my studies or even **coding competitions** I have joined. -->
+<!-- My projects vary from **personal projects** that I have developed in my free time to **university projects** that I have devoloped during my studies or even **coding competitions** I have joined. -->
 
 <!-- ## 🔧 Technologies & Tools
 
