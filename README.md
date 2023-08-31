@@ -1,7 +1,7 @@
 ## Hey there! :wave:
 
-I'm Tasos and I currently study **Computer Science** at the **Aristotle University Of Thessaloniki** in Greece. I also work as a **Full Stack Software Engineer** at **Aristotle University IT Center**. I am mainly interested in Data Engineering and data analytics infrastructures and I am seeking to work in an industrial R&D environment with a vision and an engineering culture. I am currently exploring the field of **streaming** data processing and
-advancing my skills in **SQL** and **AWS**. Furthermore, I am also a member of **ACM AUTh Student Chapter** and coordinator of the chapter's **Bot Development** team where we build Discord bots for automating different kinds of tasks, you can find more information about the chapter [here](https://auth.acm.org/). 
+I'm Tasos and I received my Bachelor's degree in **Computer Science** from **Aristotle University Of Thessaloniki** with minors in **Artificial Intelligence** and **Data and Web management**. I am mainly interested in Data Engineering and data analytics infrastructures and I am seeking to work in an industrial R&D environment with a vision and an engineering culture. I am currently exploring the field of **streaming** data processing and
+advancing my skills in **SQL** and **AWS**.
 
 I mainly work with **React.js** and **Express.js** and with languages such as **Java**, **JavaScript**, **TypeScript** and **Python**, while exploring other technologies such as **Containerization (Docker**), **Message Brokers (RabbitMQ, Apache Kafka)** and **SQL / NoSQL Databases (PostgreSQL, Redis, MongoDB)**. I also use **C** for (mainly Unix-based) systems programming.
 
