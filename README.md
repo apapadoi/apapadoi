@@ -1,7 +1,6 @@
 ## Hey there! :wave:
 
-I'm Tasos and I received my Bachelor's degree in **Computer Science** from **Aristotle University Of Thessaloniki** with minors in **Artificial Intelligence** and **Data and Web management**. I am mainly interested in Data Engineering and data analytics infrastructures and I am seeking to work in an industrial R&D environment with a vision and an engineering culture. I am currently exploring the field of **streaming** data processing and
-advancing my skills in **SQL** and **AWS**.
+I'm Tasos and I am currently pursuing my Master's degree in Data and Web Science, concurrently engaged in research involving time series anomaly detection and its applications in predictive maintenance. I received my Bachelor's degree in **Computer Science** from **Aristotle University Of Thessaloniki** with minors in **Artificial Intelligence** and **Data and Web management**. My primary interests revolve around Data Engineering and the development of data analytics infrastructures.
 
 I mainly work with **React.js** and **Express.js** and with languages such as **Java**, **JavaScript**, **TypeScript** and **Python**, while exploring other technologies such as **Containerization (Docker**), **Message Brokers (RabbitMQ, Apache Kafka)** and **SQL / NoSQL Databases (PostgreSQL, Redis, MongoDB)**. I also use **C** for (mainly Unix-based) systems programming.
 
