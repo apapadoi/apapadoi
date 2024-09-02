@@ -1,6 +1,6 @@
 ## Hey there! :wave:
 
-I'm Tasos and I am currently pursuing my Master's degree in Data and Web Science, concurrently engaged in research involving time series anomaly detection and its applications in predictive maintenance. I received my Bachelor's degree in **Computer Science** from **Aristotle University Of Thessaloniki** with minors in **Artificial Intelligence** and **Data and Web management**. My primary interests revolve around Data Engineering and the development of data analytics infrastructures.
+I'm Tasos and I am currently pursuing my Master's degree in Data and Web Science. I received my Bachelor's degree in **Computer Science** from **Aristotle University Of Thessaloniki** with minors in **Artificial Intelligence** and **Data and Web management**. My primary interests revolve around Data Engineering and the development of data analytics infrastructures.
 
 I mainly work with **React.js** and **Express.js** and with languages such as **Java**, **JavaScript**, **TypeScript** and **Python**, while exploring other technologies such as **Containerization (Docker**), **Message Brokers (RabbitMQ, Apache Kafka)** and **SQL / NoSQL Databases (PostgreSQL, Redis, MongoDB)**. I also use **C** for (mainly Unix-based) systems programming.
 
