@@ -1,6 +1,6 @@
 ## Hey there! :wave:
 
-I'm Tasos (or Anastasios), a tech guy holding a Master's degree in Data and Web Science from AUTh. I received my Bachelor's degree in **Computer Science** from **Aristotle University Of Thessaloniki** with minors in **Artificial Intelligence** and **Data and Web management**. My primary interests revolve around Data Engineering in Big Data environments.
+I'm Tasos (or Anastasios), a tech guy holding a Master's degree in Data and Web Science from **Aristotle University Of Thessaloniki**. I received my Bachelor's degree in **Computer Science** from the same university with minors in **Artificial Intelligence** and **Data and Web management**. My primary interests revolve around Data Engineering in Big Data environments.
 
 During the years, I have worked with various technologies such as **React.js** and **Express.js** and with languages such as **Java**, **JavaScript**, **TypeScript** and **Python**, while exploring others such as **Containerization (Docker**), **Message Brokers (RabbitMQ, Apache Kafka)** and **SQL / NoSQL Databases (PostgreSQL, Redis, MongoDB)**. I also use **C** for (mainly Unix-based) systems programming.
 
